@@ -1,5 +1,5 @@
 # 📊 Power-BI-Sales-Dashboard
-Interactive Power BI dashboard analyzing E-Commerce Sales
+An Interactive Power BI dashboard analyzing E-Commerce Sales
 
 ## 📖 Overview
 
